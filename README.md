@@ -20,7 +20,6 @@
 <br/>
 
 <p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Audience07)](https://github.com/anuraghazra/github-readme-stats)
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Audience07&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&exclude_repo=astrbot_prompts_collection,ravenote,virus-bar_u_faq,home,raven95676.github.io" alt="Audience07's GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Audience07&layout=compact&langs_count=8&theme=radical&hide_border=true&exclude_repo=astrbot_prompts_collection,ravenote,virus-bar_u_faq,home,raven95676.github.io" alt="Audience07's Top Languages"/>
 </p>
