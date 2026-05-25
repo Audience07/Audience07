@@ -22,3 +22,4 @@
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Audience07&show_icons=true&theme=transparent" alt="GitHub Stats" />
 </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=audience07)
