@@ -20,6 +20,6 @@
 <br/>
 
 <p align="center">
-  <img height="180em" src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=transparent)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=transparent"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Audience07&layout=compact&theme=tokyonight"/>
 </p>
