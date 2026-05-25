@@ -20,5 +20,5 @@
 <br/>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Audience07&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Audience07&show_icons=true&theme=transparent" alt="GitHub Stats" />
 </p>
